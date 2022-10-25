@@ -1,5 +1,8 @@
 _repo: Walker-s-manly-exercises-Containing-rowing-sailing-riding-driving-racing-hunting-shooting-and__69080
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69080-h/images/cover.jpg
 creator:
   author:
     agent_name: Walker, Donald
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '55089'
     url: http://www.gutenberg.org/2009/agents/55089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69080#Walker-s-manly-exercises-Containing-rowing-sailing-riding-driving-racing-hunting-shooting-and_
 gutenberg_issued: '2022-10-01'
 identifiers:
   gutenberg: '69080'
